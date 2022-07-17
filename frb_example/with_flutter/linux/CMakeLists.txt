@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.11)
+cmake_minimum_required(VERSION 3.12)
 project(runner LANGUAGES CXX)
 
 set(BINARY_NAME "with_flutter")
